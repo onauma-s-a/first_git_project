@@ -4,5 +4,8 @@ public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello World");
         System.out.println("Trying to updated the project");
+        System.out.println("Hello Cydeo");
+        System.out.println("Hello Programmer");
+        
     }
 }
